@@ -48,3 +48,5 @@ paypalobjects.com
 pypd.paypal-mktg.com
 [...]
 ```
+
+Made with the help of ChatGPT ❤️
