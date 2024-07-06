@@ -10,6 +10,7 @@ Scan a single URL
 
 ```
 python3 csp-domains-extract.py -u https://paypal.com -o paypal-csp-results
+
 [...]
 api.paypal-retaillocator.com
 assets-cdn.s-xoom.com
@@ -29,11 +30,13 @@ Scan multiple URLs and store the result in a file
 
 ```
 python3 csp-domains-extract.py -ul paypal-domains -o paypal-csp-results
+
 Results saved to paypal-csp
 ```
 
 ```
 cat paypal-csp
+
 [...]
 api.paypal-retaillocator.com
 assets-cdn.s-xoom.com
